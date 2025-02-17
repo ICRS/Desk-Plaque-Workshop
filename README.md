@@ -1,6 +1,14 @@
 # Desk Plaque Workshop
 
-<!-- TODO: Add Hero Image -->
+<br>
+
+This is a workshop to make a desk plaque with your name on it. Lit by LEDs underneath. Its powered by a USB C port and made in the ICRS Robotics lab.
+
+<img src="./imgs/hero.webp" alt="hero" height="400"/>
+
+<br>
+<br>
+<br>
 
 | 🔨 Tools                            | 🪵 Materials              |
 | ----------------------------------- | ------------------------- |
@@ -66,4 +74,10 @@ With the following settings:
 4. Then add the black acrylic and mallet it in
 5. Plug it in and enjoy!
 
-<!-- TODO: Add Image -->
+<img src="./imgs/parts.webp" alt="parts" height="300"/>
+<img src="./imgs/hammer.webp" alt="hammer in" height="300"/>
+
+### 📞 Contact
+
+Course Designed for [Imperial College Robotics Society](https://linktr.ee/icrobotics)
+By [Etienne Naude](https://etinaude.dev/contact/)
