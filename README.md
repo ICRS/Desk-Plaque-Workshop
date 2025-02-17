@@ -35,30 +35,35 @@ With the following settings:
 
 ## 🛠️ Assembly
 
-#### Electronics:
+#### `Electronics:`
 
 1. Cut the LED strip to fit in the hole in the base
 2. Solder to USB C port
 
-<!-- TODO: Add Image -->
+<img src="./imgs/solder.webp" alt="LED Strip" height="300"/>
 
-#### Base:
+#### `Base:`
 
 1. Remove Support from the 3D printed parts
 2. Fill the holes of the base with sand
 3. Hot the sand hole covers to the base to prevent sand from leaking
 
-<!-- TODO: Add Image -->
+---
 
 4. Add the LED strip to the base
 5. Cover the LED strip with the 3D printed part and use it to hold the USB C port in place
 6. Glue the rubber sheet to the bottom of the base to make it slide less and cover seams
 
-<!-- TODO: Add Image -->
+<img src="./imgs/sand.webp" alt="sand" height="300"/>
+<img src="./imgs/glue.webp" alt="glue" height="300"/>
+<img src="./imgs/LED_inside.webp" alt="led placement" height="300"/>
 
-#### Acrylic
+#### `Acrylic:`
 
 1. Remove the protective film from the acrylic
-2. Put the transparent acrylic in first and use mallet to push it in
-3. Then add the black acrylic and mallet it in
-4. Plug it in and enjoy!
+2. Put the transparent acrylic in with the text facing the inside (so the light catches it better)
+3. use mallet to push it in
+4. Then add the black acrylic and mallet it in
+5. Plug it in and enjoy!
+
+<!-- TODO: Add Image -->
