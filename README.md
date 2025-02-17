@@ -2,7 +2,7 @@
 
 <br>
 
-This is a workshop to make a desk plaque with your name on it. Lit by LEDs underneath. Its powered by a USB C port and made in the ICRS Robotics lab.
+This is a workshop to make a desk plaque with your name on it. This plaque is lit by LEDs underneath the acrylic nameplate. It is powered by a USB C port and was originally made in the ICRS Robotics lab.
 
 <img src="./imgs/hero.webp" alt="hero" height="400"/>
 
@@ -10,16 +10,16 @@ This is a workshop to make a desk plaque with your name on it. Lit by LEDs under
 <br>
 <br>
 
-| 🔨 Tools                            | 🪵 Materials              |
-| ----------------------------------- | ------------------------- |
-| Laser Cutter (eg OMTech 60W)        | 3mm Black Acrylic         |
-| 3D Printer (eg Bambu p1p)           | 3mm Transparent Acrylic   |
-| Hot Glue Gun                        | 3mm Laser Rubber          |
-| Pliers                              | PLA Filament              |
-| Vector Editing Software eg Inkscape | USB C Port                |
-|                                     | Fine Sand                 |
-|                                     | 120 LED/m Warm White LEDs |
-|                                     | USB C Cable               |
+| 🔨 Tools                             | 🪵 Materials              |
+| -----------------------------------  | ------------------------- |
+| Laser Cutter (eg OMTech 60W)         | 3mm Black Acrylic         |
+| 3D Printer (eg Bambu p1p)            | 3mm Transparent Acrylic   |
+| Hot Glue Gun                         | 3mm Laser Rubber          |
+| Pliers                               | PLA Filament              |
+| Vector Editing Software (eg Inkscape)| USB C Port                |
+|                                      | Fine Sand                 |
+|                                      | 120 LED/m Warm White LEDs |
+|                                      | USB C Cable               |
 
 ## 📐 Making Parts
 
@@ -33,19 +33,19 @@ This is a workshop to make a desk plaque with your name on it. Lit by LEDs under
 
 Print all files in `3D files` folder
 
-With the following settings:
+Use the following settings:
 
 - 0.2mm Layer Height
 - 2 Perimeters
-- Supports enabled and 0.2mm from part
+- Supports enabled and 0.2mm from parts
 
-- Infill doesn't matter
+Note that the infill percentage for this print doesn't matter.
 
 ## 🛠️ Assembly
 
 #### `Electronics:`
 
-1. Cut the LED strip to fit in the hole in the base
+1. Cut the LED strip to fit the hole in the base
 2. Solder to USB C port
 
 <img src="./imgs/solder.webp" alt="LED Strip" height="300"/>
@@ -54,7 +54,7 @@ With the following settings:
 
 1. Remove Support from the 3D printed parts
 2. Fill the holes of the base with sand
-3. Hot the sand hole covers to the base to prevent sand from leaking
+3. Use hot glue to seal the sand holes and add the covers to the base to prevent sand from leaking
 
 ---
 
@@ -69,10 +69,10 @@ With the following settings:
 #### `Acrylic:`
 
 1. Remove the protective film from the acrylic
-2. Put the transparent acrylic in with the text facing the inside (so the light catches it better)
-3. use mallet to push it in
+2. Put the transparent acrylic in the slot of the base, with the text facing the inside for maximum contrast
+3. Use mallet to gently push the acrlic plate into the slot
 4. Then add the black acrylic and mallet it in
-5. Plug it in and enjoy!
+5. Plug the USB C port to a power source and enjoy!
 
 <img src="./imgs/parts.webp" alt="parts" height="300"/>
 <img src="./imgs/hammer.webp" alt="hammer in" height="300"/>
