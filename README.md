@@ -80,4 +80,9 @@ Note that the infill percentage for this print doesn't matter.
 ### 📞 Contact
 
 Course Designed for [Imperial College Robotics Society](https://linktr.ee/icrobotics)
-By [Etienne Naude](https://etinaude.dev/contact/)
+By
+- [Etienne Naude](https://etinaude.dev/contact/)
+- [Anna Silver] (anna.silver22@imperial.ac.uk)
+- Laura Shaw
+- David Cai
+
